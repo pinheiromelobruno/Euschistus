@@ -1,0 +1,1 @@
+Replace class C2f(nn.Module) in ultralytics/nn/modules/block.py with C2f2 code
