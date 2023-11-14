@@ -4,6 +4,6 @@ In the ByteTrack folder you will find the results relating to the application of
 
 In the EMBRAPA_EUSCHISTUS directory you will find the unpublished dataset which was animated on video for the experiment with ByteTrack.
 
-Finally, in the Proposed_Model folder you will find all the pertinent details on building the model.
+Finally, in the Proposed_Model folder you will find all the pertinent details on building the model for insect detection.
 
 Questions can be clarified with the author.
